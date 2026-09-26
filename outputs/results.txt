@@ -1,0 +1,9 @@
+S+PEE Prediction Results
+========================
+
+Minimum Error: -105
+Maximum Error: 216
+Mean Error: 0.5212
+Standard Deviation: 9.4052
+Zero Error Pixels: 1850176
+Zero Error Percentage: 72.2725
